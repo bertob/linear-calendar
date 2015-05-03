@@ -1,0 +1,11 @@
+.tick {
+    width: 2px;
+    height: 27px;
+    font-size: 50px;
+    color: #ffffff;
+    background-color: #bfbfbf;
+}
+
+.line {
+	border-top: 2px solid red;
+}
